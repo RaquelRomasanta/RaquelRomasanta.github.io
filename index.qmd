@@ -1,0 +1,17 @@
+---
+title: "Raquel P. Romasanta"
+about:
+  template: jolla
+  image: images/yo_misma.jpeg
+  links: 
+    - text: Email
+      icon: envelope
+      href: raquel.pereira-romasanta@uib.es
+    - icon: github
+      text: Github
+      href: https://github.com/RaquelRomasanta/raquelromasanta.github.io
+format: html
+editor: visual
+---
+
+## Lecturer at the University of the Balearic Islands
