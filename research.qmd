@@ -6,9 +6,9 @@ editor: visual
 
 ## **2023**
 
--   **Romasanta**, Raquel P. A morphosyntactic approach to language contact in African varieties of English. *Studia Neophilologica* 95(1): 146-169. <https://doi.org/10.1080/00393274.2021.1978314> \\\| {{< fa file >}} Preprint
+-   **Romasanta**, Raquel P. A morphosyntactic approach to language contact in African varieties of English. *Studia Neophilologica* 95(1): 146-169. <https://doi.org/10.1080/00393274.2021.1978314> \\\| {{< fa file >}} [Preprint](https://osf.io/preprints/psyarxiv/4ux9k)
 
--   **Romasanta**, Raquel P. Regional syntactic variability in the complementation system of global varieties of English. In *Social and Regional Variation in World Englishes: Local and Global Perspectives*, ed. by Paula Rautionaho, Hanna Parviainen, Mark Kaunisto & Arja Nurmi, 66-90. New York/London: Routledge. [https://doi.org/10.4324/9781003227342-5](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003227342-5/regional-syntactic-variability-complementation-system-global-varieties-english-1-raquel-romasanta) \\\| <i class="fa-regular fa-file"></i> Preprint
+-   **Romasanta**, Raquel P. Regional syntactic variability in the complementation system of global varieties of English. In *Social and Regional Variation in World Englishes: Local and Global Perspectives*, ed. by Paula Rautionaho, Hanna Parviainen, Mark Kaunisto & Arja Nurmi, 66-90. New York/London: Routledge. [https://doi.org/10.4324/9781003227342-5](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003227342-5/regional-syntactic-variability-complementation-system-global-varieties-english-1-raquel-romasanta) \\\| <i class="fa-regular fa-file"></i> [Preprint](https://osf.io/preprints/psyarxiv/f2hy7)
 
 -   Suárez-Gómez, Cristina y Raquel P. **Romasanta**. Uncovering Variation in Word Englishes: Finite vs Non-finite Complementation of remember with Prospective Meaning. *Alicante Journal of English Studies* 39: 35-54. <https://doi.org/10.14198/raei.2023.39.02> \\\| <i class="fa-solid fa-lock-open"></i> [Open access](https://raei.ua.es/article/view/24825/22821)
 
@@ -22,7 +22,7 @@ editor: visual
 
 -   **Romasanta**, Raquel P. Negation as a predictor of clausal complement choice in World Englishes. *English Language and Linguistics* 26(2): 307-329. <https://doi.org/10.1017/S1360674321000241> \\\| <i class="fa-solid fa-lock-open"></i> [Open access](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8A9DA89BA73455047ED6433A9AF97772/S1360674321000241a.pdf/negation-as-a-predictor-of-clausal-complement-choice-in-world-englishes.pdf)
 
--   **Romasanta**, Raquel P. Substrate Language Influence in Postcolonial Asian Englishes and the Role of Transfer in the Complementation System. *English Studies* 102(8): 1151-1170. <https://doi.org/10.1080/0013838X.2021.1966968> \\\| <i class="fa-regular fa-file"></i> Preprint
+-   **Romasanta**, Raquel P. Substrate Language Influence in Postcolonial Asian Englishes and the Role of Transfer in the Complementation System. *English Studies* 102(8): 1151-1170. <https://doi.org/10.1080/0013838X.2021.1966968> \\\| <i class="fa-regular fa-file"></i> [Preprint](https://osf.io/preprints/psyarxiv/x2q4j)
 
 ## **2019**
 
