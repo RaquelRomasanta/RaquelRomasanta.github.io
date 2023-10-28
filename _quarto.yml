@@ -6,7 +6,7 @@ project:
   output-dir: docs
 
 website: 
-  title: "Raquel P. Romasanta"
+  title: "Raquel P. Romasanta" 
   search: true  
   navbar:
     pinned: true
