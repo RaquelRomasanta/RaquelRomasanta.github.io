@@ -15,7 +15,7 @@ image: images/best.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-During the [*8th Biennial International Conference on the Linguistics of Contemporary English* (8 BICLCE)](https://www.uni-bamberg.de/en/eng-ling/biclce-2019/) held at the Otto-Friedrich-Universität Bamberg, Germany (26-28 September), I was awarded the prize to the Best Paper presented at the conference by a junior researcher. The paper, entitled *Negation and the Cognitive Complexity Principle in the English Clausal Complementation System* is part of my PhD project, supervised by Elena Seoane and Manfred Krug.
+During the [*8th Biennial International Conference on the Linguistics of Contemporary English* (8 BICLCE)](https://www.uni-bamberg.de/en/eng-ling/biclce-2019/){target="_blank"} held at the Otto-Friedrich-Universität Bamberg, Germany (26-28 September), I was awarded the prize to the Best Paper presented at the conference by a junior researcher. The paper, entitled *Negation and the Cognitive Complexity Principle in the English Clausal Complementation System* is part of my PhD project, supervised by Elena Seoane and Manfred Krug.
 
 ```{=html}
 <style>
