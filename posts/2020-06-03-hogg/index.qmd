@@ -5,7 +5,7 @@ description: "Awarded the Richard M. Hogg Prize of the IsLE"
 author:
   - name: Raquel P. Romasanta
     url: https://https://raquelromasanta.github.io/
-    orcid: 0000-0002-6136-0582
+    orcid: 0000-0001-7508-4745
     affiliation: University of the Balearic Islands
 date: 06-03-2020
 #categories: [Quarto, R, MEDS] # self-defined categories
