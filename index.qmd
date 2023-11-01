@@ -7,13 +7,13 @@ about:
     - text: "{{< fa envelope >}}" 
       href: mailto:raquel.pereira-romasanta@uib.es
     - text: "{{< fa brands github >}}" 
-      href: https://github.com/RaquelRomasanta {target="_blank"}
+      href: https://github.com/RaquelRomasanta 
     - icon: OSF
       text: "{{< ai osf >}}"
-      href: https://osf.io/4bgnx {target="_blank"}
+      href: https://osf.io/4bgnx 
     - icon: orcid
       text: "{{< fa brands orcid >}}" 
-      href: https://orcid.org/0000-0001-7508-4745 {target="_blank"}
+      href: https://orcid.org/0000-0001-7508-4745 
 
 format: html
 editor: visual
