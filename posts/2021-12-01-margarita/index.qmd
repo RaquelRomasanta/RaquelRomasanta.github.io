@@ -15,4 +15,4 @@ image: images/salas.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-I obtained the three-year postodoctoral contract [Margarita Salas](https://www.universidades.gob.es/ayudas-a-la-recualificacion/), a competitive grant offered by the Ministry of Universities. I will be working with the [SPERTUS](https://www.spertus.es/index.html) team, led by Ignacio Palacios Martínez at the University of Santiago de Compostela.
+I obtained the three-year postodoctoral contract [Margarita Salas](https://www.universidades.gob.es/ayudas-a-la-recualificacion/){target="_blank"}, a competitive grant offered by the Ministry of Universities. I will be working with the [SPERTUS](https://www.spertus.es/index.html){target="_blank"} team, led by Ignacio Palacios Martínez at the University of Santiago de Compostela.
