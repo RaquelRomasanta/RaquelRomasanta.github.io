@@ -17,8 +17,11 @@ website:
         text: About
       - href: research.qmd
         text: Research
+      - href: posts.qmd
+        text: Blog
       - href: contact.qmd
         text: Contact 
+
 
 format: 
   html:

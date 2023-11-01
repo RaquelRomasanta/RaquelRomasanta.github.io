@@ -1,0 +1,31 @@
+---
+title: "8 BICLCE - Best Paper Prize"
+editor: visual
+description: "Awarded the Best Paper prize at the 8BICLCE conference"
+author:
+  - name: Raquel P. Romasanta
+    url: https://https://raquelromasanta.github.io/
+    orcid: 0000-0002-6136-0582
+    affiliation: University of the Balearic Islands
+date: 09-30-2019
+#categories: [Quarto, R, MEDS] # self-defined categories
+#citation: 
+  #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
+image: images/best.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+During the [*8th Biennial International Conference on the Linguistics of Contemporary English* (8 BICLCE)](https://www.uni-bamberg.de/en/eng-ling/biclce-2019/) held at the Otto-Friedrich-Universität Bamberg, Germany (26-28 September), I was awarded the prize to the Best Paper presented at the conference by a junior researcher. The paper, entitled *Negation and the Cognitive Complexity Principle in the English Clausal Complementation System* is part of my PhD project, supervised by Elena Seoane and Manfred Krug.
+
+```{=html}
+<style>
+.myclass {
+  max-width: 100%;
+  width: 800px;
+  height: 1000px;
+  border: 10px solid rgba(200,0,0,.2);
+  margin: 0;
+}
+</style>
+```
+{{< pdf resources/romasanta.pdf class=myclass >}}

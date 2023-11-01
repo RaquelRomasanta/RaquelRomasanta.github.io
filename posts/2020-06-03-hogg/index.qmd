@@ -1,0 +1,20 @@
+---
+title: "Richard M. Hogg Prize"
+editor: visual
+description: "Awarded the Richard M. Hogg Prize of the IsLE"
+author:
+  - name: Raquel P. Romasanta
+    url: https://https://raquelromasanta.github.io/
+    orcid: 0000-0002-6136-0582
+    affiliation: University of the Balearic Islands
+date: 06-03-2020
+#categories: [Quarto, R, MEDS] # self-defined categories
+#citation: 
+  #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
+image: images/isle.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+On 2 June I was awarded the [Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize) of the [International Society for the Linguistics of English (IsLE)](https://www.isle-linguistics.org/) for my paper *Negation as a predictor of clausal complement choice in World Englishes*
+
+The Prize is awarded in open competition to early-career scholars, both pre and postdoctoral scholars. The Prize involves cash prize of £500, the publication of her paper on the **IsLE website**, an invitation and financial support to present her work in the next **IsLE conference**, and, additionally, an invitation to submit her prize-winning paper for competitive review for publication in *English Language and Linguistics*, the journal closely associated with the aims of the Society. The paper was later published in this journal in [open access](https://doi.org/10.1017/S1360674321000241).

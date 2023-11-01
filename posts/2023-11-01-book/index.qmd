@@ -1,0 +1,22 @@
+---
+title: "Book published!"
+editor: visual
+description: "Probabilistic variability in clausal verb complementation in World Englishes. Peter Lang. 2023"
+author:
+  - name: Raquel P. Romasanta
+    url: https://https://raquelromasanta.github.io/
+    orcid: 0000-0002-6136-0582
+    affiliation: University of the Balearic Islands
+date: 06-01-2023
+#categories: [Quarto, R, MEDS] # self-defined categories
+#citation: 
+  #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
+image: images/book.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+::: {style="display: flex; justify-content: center; align-items: center"}
+![](images/book.png)
+:::
+
+I just published the volume [*Probabilistic variability in clausal verb complementation in World Englishes*](https://www.peterlang.com/document/1319689)(Peter Lang). The book explores finite and nonfinite clausal verb complementation in World Englishes. It provides an assessment of the influence of language contact, simplicity and transparency, geographical proximity, and evolutionary phase on this alternation. On the one hand, a quantitative analysis of GloWbE data through different statistical tests proves the effects of these factors on the choice between finite *that*-clauses and nonfinite -*ing* clauses. A number of intra-linguistic factors are also considered as potential explanatory factors. On the other hand, a detailed, manual, qualitative analysis results in the discovery of a series of new verb complementation structures available in English varieties around the world.

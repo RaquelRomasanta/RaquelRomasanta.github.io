@@ -1,0 +1,24 @@
+---
+title: "Talk at Pompeu Fabra"
+editor: visual
+description: "Towards Monolingualism: The Linguistic Ecology of Gibraltar"
+author:
+  - name: Raquel P. Romasanta
+    url: https://https://raquelromasanta.github.io/
+    orcid: 0000-0002-6136-0582
+    affiliation: University of the Balearic Islands
+date: 05-23-2022
+#categories: [Quarto, R, MEDS] # self-defined categories
+#citation: 
+  #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
+image: images/fabra.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+::: {style="display: flex; justify-content: center; align-items: center"}
+![](images/pompeu.png)
+:::
+
+------------------------------------------------------------------------
+
+Last week, I gave an invited talk at the Pompeu Fabra University in Barcelona, with the title *Towards Monolingualism: The Linguistic Ecology of Gibraltar*. Staff and students drew parallels between the sociolinguistic  situation in Gibraltar and in Catalonia, and were intrigued about the potential creole status of Yanito, one of the vernacular languages. All feedback was exciting and very welcome!  

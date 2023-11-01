@@ -1,0 +1,22 @@
+---
+title: "Obtain PhD"
+editor: visual
+description: "Obtain my PhD and become a postdoc"
+author:
+  - name: Raquel P. Romasanta
+    url: https://https://raquelromasanta.github.io/
+    orcid: 0000-0002-6136-0582
+    affiliation: University of the Balearic Islands
+date: 12-14-2020
+#categories: [Quarto, R, MEDS] # self-defined categories
+#citation: 
+  #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
+image: images/phd.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+I obtained my PhD this morning. The dissertation is entitled [*Variation in the clausal complementation system in World Englishes: A corpus-based study of REGRET*](https://www.investigo.biblioteca.uvigo.es/xmlui/handle/11093/1688?show=full) and merited the highest grade (sobresaliente cum laude). Supervisors: Elena Seoane (University of Vigo) and Manfred Krug (University of Bamberg).
+
+I want to express our gratitude to the board members, Professors Sarah Buschfeld (TU Dortmund), Pérez-Guerra (Uvigo) and Loureiro-Porto (UIB), for the wealth and depth of their feedback.
+
+I am now a postdoctoral at the University of Vigo.

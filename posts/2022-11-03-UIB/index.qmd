@@ -1,0 +1,18 @@
+---
+title: "New position at UIB"
+editor: visual
+description: "Obtain a junior lectureshipt at UIB"
+author:
+  - name: Raquel P. Romasanta
+    url: https://https://raquelromasanta.github.io/
+    orcid: 0000-0002-6136-0582
+    affiliation: University of the Balearic Islands
+date: 11-03-2022
+#categories: [Quarto, R, MEDS] # self-defined categories
+#citation: 
+  #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
+image: images/UIB.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Last September, I obtained a junior lectureship (Ayudante Doctora) at the University of the Balearic Islands. This is a full time tenure-track position for five years.

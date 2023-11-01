@@ -6,7 +6,7 @@ about:
   links: 
     - text: Email
       icon: envelope
-      href: raquel.pereira-romasanta@uib.es
+      href: mailto:raquel.pereira-romasanta@uib.es
     - icon: github
       text: Github
       href: https://github.com/RaquelRomasanta
