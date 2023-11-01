@@ -4,8 +4,8 @@ editor: visual
 description: "Obtain the Margarita Salas 3-year posdoctoral contract"
 author:
   - name: Raquel P. Romasanta
-    url: https://https://raquelromasanta.github.io/
-    orcid: 0000-0001-7508-4745
+    url: https://orcid.org/0000-0001-7508-4745
+    orcid: https://orcid.org/0000-0001-7508-4745
     affiliation: University of the Balearic Islands
 date: 12-01-2021
 #categories: [Quarto, R, MEDS] # self-defined categories
@@ -15,4 +15,4 @@ image: images/salas.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-I obtained the three-year postodoctoral contract [Margarita Salas](#0), a competitive grant offered by the Ministry of Universities. I will be working with the [SPERTUS](#0) team, led by Ignacio Palacios Martínez at the University of Santiago de Compostela.
+I obtained the three-year postodoctoral contract [Margarita Salas](https://www.universidades.gob.es/ayudas-a-la-recualificacion/), a competitive grant offered by the Ministry of Universities. I will be working with the [SPERTUS](https://www.spertus.es/index.html) team, led by Ignacio Palacios Martínez at the University of Santiago de Compostela.

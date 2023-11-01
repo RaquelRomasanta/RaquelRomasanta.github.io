@@ -4,8 +4,8 @@ editor: visual
 description: "Awarded the Best Paper prize at the 8BICLCE conference"
 author:
   - name: Raquel P. Romasanta
-    url: https://https://raquelromasanta.github.io/
-    orcid: 0000-0001-7508-4745
+    url: https://orcid.org/0000-0001-7508-4745
+    orcid: https://orcid.org/0000-0001-7508-4745
     affiliation: University of the Balearic Islands
 date: 09-30-2019
 #categories: [Quarto, R, MEDS] # self-defined categories

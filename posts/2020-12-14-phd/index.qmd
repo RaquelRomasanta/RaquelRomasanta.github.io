@@ -4,8 +4,8 @@ editor: visual
 description: "Obtain my PhD and become a postdoc"
 author:
   - name: Raquel P. Romasanta
-    url: https://https://raquelromasanta.github.io/
-    orcid: 0000-0001-7508-4745
+    url: https://orcid.org/0000-0001-7508-4745
+    orcid: https://orcid.org/0000-0001-7508-4745
     affiliation: University of the Balearic Islands
 date: 12-14-2020
 #categories: [Quarto, R, MEDS] # self-defined categories
