@@ -4,22 +4,18 @@ format: html
 editor: visual
 ---
 
-![](images/uni.jpeg)
+![](images/uni.jpeg){width="4184"}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3072.629665732722!2d2.644309076283817!3d39.63554157157594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297ed3b11dcc90f%3A0x43c1eb269689a121!2sEdifici%20Ramon%20Llull!5e0!3m2!1sgl!2sde!4v1698500276602!5m2!1sgl!2sde" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+**Departamento de Filología Inglesa y Alemana**
 
-</iframe>
+Facultade de Filoloxía
 
-Departament de Filologia Espanyola, Moderna i Clàssica
+Universidade de Santiago de Compostela (USC)
 
-Edifici Ramon Llull
+Avda. de Castelao, s/n, 15782
 
-Universitat de les Illes Balears
+Santiago de Compostela, SPAIN
 
-Cra. de Valldemossa, km 7.5 E-07122
+E-mail: [raquel.romasanta\@usc.es](mailto:raquel.romasanta@usc.es)
 
-Palma de Mallorca, SPAIN
-
-E-mail: [raquel.pereira-romasanta\@uib.es](mailto:raquel.pereira-romasanta@uib.es)
-
-Office: RL BD04
+Office: 308

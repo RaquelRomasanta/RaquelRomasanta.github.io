@@ -5,7 +5,7 @@ about:
   image: images/yo_misma.jpeg
   links: 
     - text: "{{< fa envelope >}}" 
-      href: mailto:raquel.pereira-romasanta@uib.es
+      href: mailto:raquel.romasanta@usc.es
     - text: "{{< fa brands github >}}" 
       href: https://github.com/RaquelRomasanta
     - icon: OSF
@@ -19,4 +19,4 @@ format: html
 editor: visual
 ---
 
-## Lecturer at the University of the Balearic Islands
+## Lecturer at the University of Santiago de Compostela

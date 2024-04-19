@@ -4,32 +4,150 @@ format: html
 editor: visual
 ---
 
-## **2023**
+<form action="#Publications" style="display: inline-block;">
 
--   **Romasanta**, Raquel P. A morphosyntactic approach to language contact in African varieties of English. *Studia Neophilologica* 95(1): 146-169. <https://doi.org/10.1080/00393274.2021.1978314> \\\| {{< fa file >}} [Preprint](https://osf.io/preprints/psyarxiv/4ux9k){target="_blank"}
+<input class="button" type="submit" value="Publications" /> 
 
--   **Romasanta**, Raquel P. Regional syntactic variability in the complementation system of global varieties of English. In *Social and Regional Variation in World Englishes: Local and Global Perspectives*, ed. by Paula Rautionaho, Hanna Parviainen, Mark Kaunisto & Arja Nurmi, 66-90. New York/London: Routledge. [https://doi.org/10.4324/9781003227342-5](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003227342-5/regional-syntactic-variability-complementation-system-global-varieties-english-1-raquel-romasanta) \\\| <i class="fa-regular fa-file"></i> [Preprint](https://osf.io/preprints/psyarxiv/f2hy7){target="_blank"}
+</form>
 
--   Suárez-Gómez, Cristina y Raquel P. **Romasanta**. Uncovering Variation in Word Englishes: Finite vs Non-finite Complementation of remember with Prospective Meaning. *Alicante Journal of English Studies* 39: 35-54. <https://doi.org/10.14198/raei.2023.39.02> \\\| {{< ai open-access >}} [Open access](https://raei.ua.es/article/view/24825/22821){target="_blank"}
+<form action="#Presentations" style="display: inline-block;">
 
--   **Romasanta**, Raquel P. *Probabilistic variability in clausal verb complementation in World Englishes.* Berlin: Peter Lang. <https://doi.org/10.3726/b20677>
+<input class="button" type="submit" value="Presentations" /> 
 
-## **2022**
+</form>
 
--   **Romasanta**, Raquel P. "I regret lying" vs. "I regret that I lied": Variation in the clausal complementation profile of regret in American and British English. *Miscelánea* 65: 37-58. <https://doi.org/10.26754/ojs_misc/mj.20226828> \\\| {{< ai open-access >}} [Open access](https://papiro.unizar.es/ojs/index.php/misc/article/view/6828/5862){target="_blank"}
+<form action="#Conference organization" style="display: inline-block;">
 
-## **2021**
+<input class="button" type="submit" value="Conference organization" /> 
 
--   **Romasanta**, Raquel P. Negation as a predictor of clausal complement choice in World Englishes. *English Language and Linguistics* 26(2): 307-329. <https://doi.org/10.1017/S1360674321000241> \\\| {{< ai open-access >}} [Open access](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8A9DA89BA73455047ED6433A9AF97772/S1360674321000241a.pdf/negation-as-a-predictor-of-clausal-complement-choice-in-world-englishes.pdf){target="_blank"}
+</form>
 
--   **Romasanta**, Raquel P. Substrate Language Influence in Postcolonial Asian Englishes and the Role of Transfer in the Complementation System. *English Studies* 102(8): 1151-1170. <https://doi.org/10.1080/0013838X.2021.1966968> \\\| <i class="fa-regular fa-file"></i> [Preprint](https://osf.io/preprints/psyarxiv/x2q4j){target="_blank"}
+<form action="#Proyects" style="display: inline-block;">
 
-## **2019**
+<input class="button" type="submit" value="Proyects" /> 
 
--   **Romasanta**, Raquel P. Innovation at the Grammar-lexis Intersection in World Englishes. *Nordic Journal of English Studies* 18(2): 1-36. <https://doi.org/10.35360/njes.504> \\\| {{< ai open-access >}} [Open access](https://doi.org/10.35360/njes.504){target="_blank"}
+</form>
 
--   **Romasanta**, Raquel P. Variability in verb complementation: Determinants of grammatical variation in indigenized L2 varieties of English. In *Corpus Approaches into World Englishes and Language Contrasts* (Studies in Variation, Contacts and Change in English 20), ed. by Hanna Parviainen, Mark Kaunisto & Päivi Pahta. Helsinki: VARIENG. <https://varieng.helsinki.fi/series/volumes/20/romasanta/>
+<form action="#Awards" style="display: inline-block;">
 
-## **2017**
+<input class="button" type="submit" value="Awards" /> 
+
+</form>
+
+<p><a id="Publications" name="Publications"></a></p>
+
+# Publications
+
+-   **Romasanta**, Raquel P. (in review). A dialectological approach to syntactic variability in global web-based English
+
+-   **Romasanta**, Raquel P. (in preparation). A corpus-based approach to the complementation of retrospective verbs in World Englishes
+
+-   **Romasanta**, Raquel P. 2023. A morphosyntactic approach to language contact in African varieties of English. *Studia Neophilologica* 95(1): 146-169. <https://doi.org/10.1080/00393274.2021.1978314> \\\| {{< fa file >}} [Preprint](https://osf.io/preprints/psyarxiv/4ux9k){target="_blank"}
+
+-   **Romasanta**, Raquel P. 2023. Regional syntactic variability in the complementation system of global varieties of English. In *Social and Regional Variation in World Englishes: Local and Global Perspectives*, ed. by Paula Rautionaho, Hanna Parviainen, Mark Kaunisto & Arja Nurmi, 66-90. New York/London: Routledge. [https://doi.org/10.4324/9781003227342-5](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003227342-5/regional-syntactic-variability-complementation-system-global-varieties-english-1-raquel-romasanta) \\\| <i class="fa-regular fa-file"></i> [Preprint](https://osf.io/preprints/psyarxiv/f2hy7){target="_blank"}
+
+-   Suárez-Gómez, Cristina y Raquel P. **Romasanta**. 2023. Uncovering Variation in Word Englishes: Finite vs Non-finite Complementation of remember with Prospective Meaning. *Alicante Journal of English Studies* 39: 35-54. <https://doi.org/10.14198/raei.2023.39.02> \\\| {{< ai open-access >}} [Open access](https://raei.ua.es/article/view/24825/22821){target="_blank"}
+
+-   **Romasanta**, Raquel P. 2023. *Probabilistic variability in clausal verb complementation in World Englishes.* Berlin: Peter Lang. <https://doi.org/10.3726/b20677>
+
+-   **Romasanta**, Raquel P. 2023. "I regret lying" vs. "I regret that I lied": Variation in the clausal complementation profile of regret in American and British English. *Miscelánea* 65: 37-58. <https://doi.org/10.26754/ojs_misc/mj.20226828> \\\| {{< ai open-access >}} [Open access](https://papiro.unizar.es/ojs/index.php/misc/article/view/6828/5862){target="_blank"}
+
+-   **Romasanta**, Raquel P. 2023. Negation as a predictor of clausal complement choice in World Englishes. *English Language and Linguistics* 26(2): 307-329. <https://doi.org/10.1017/S1360674321000241> \\\| {{< ai open-access >}} [Open access](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8A9DA89BA73455047ED6433A9AF97772/S1360674321000241a.pdf/negation-as-a-predictor-of-clausal-complement-choice-in-world-englishes.pdf){target="_blank"}
+
+-   **Romasanta**, Raquel P. 2023. Substrate Language Influence in Postcolonial Asian Englishes and the Role of Transfer in the Complementation System. *English Studies* 102(8): 1151-1170. <https://doi.org/10.1080/0013838X.2021.1966968> \\\| <i class="fa-regular fa-file"></i> [Preprint](https://osf.io/preprints/psyarxiv/x2q4j){target="_blank"}
+
+-   **Romasanta**, Raquel P. 2023. Innovation at the Grammar-lexis Intersection in World Englishes. *Nordic Journal of English Studies* 18(2): 1-36. <https://doi.org/10.35360/njes.504> \\\| {{< ai open-access >}} [Open access](https://doi.org/10.35360/njes.504){target="_blank"}
+
+-   **Romasanta**, Raquel P. 2023. Variability in verb complementation: Determinants of grammatical variation in indigenized L2 varieties of English. In *Corpus Approaches into World Englishes and Language Contrasts* (Studies in Variation, Contacts and Change in English 20), ed. by Hanna Parviainen, Mark Kaunisto & Päivi Pahta. Helsinki: VARIENG. <https://varieng.helsinki.fi/series/volumes/20/romasanta/>
 
 -   **Romasanta**, Raquel P. 2017. Contact-induced variation in clausal verb complementation: the case of REGRET in World Englishes. *Alicante Journal of English Studies* 30: 122-149. <https://doi.org/10.14198/raei.2017.30.05> \\\| {{< ai open-access >}} [Open access](https://raei.ua.es/article/view/2017-n30-contact-induced-variation-in-clausal-verb-complementati/pdf){target="_blank"}
+
+<p><a href="#Top">UP ▲</a></p>
+
+<p><a id="Presentations" name="Presentations"></a></p>
+
+# Presentations
+
+-   "The compilation of the International Corpus of Gibraltar English: Problems and prospects". The Sociolinguistics of Gibraltar in 21st Century. Departamento de Filología Inglesa, Francesa y Alemana, Universidad de Vigo, Vigo, España, 16/11/2016
+
+-   "The clausal complementation profile of the verb regret in British and American English". Santiago-Leuven-Edinburgh seminar on Grammatical Variation and Change in English. University of Leuven, Leuven, Bélgica, 04-05/04/2017
+
+-   "Morphosyntactic variation in contemporary American and British English: The sentential complementation profile of emotion verbs". Graduate Day 2017. Interuniversity Doctoral Programme in Advanced English Studies (IDAES), Universidad de Coruña, A Coruña, España, 30/05/2017
+
+-   ""I regret that I spoke" vs. "I regret speaking": Variability in sentential verb complementation in British and American English". 7th Biennial International Conference on the Linguistics of Contemporary English, Universidad de Vigo, Vigo, España, 28-30/09/2017
+
+-   "The verbal complementation profile of regret in World Englishes: Variation and innovation". Graduate Day 2018. Interuniversity Doctoral Programme in Advanced English Studies (IDAES), Universidad de Vigo, Vigo, España, 04/05/2018
+
+-   "The impact of substrate influence on sentential verb complementation across World Englishes". International Conference ICAME 39. University of Tampere, Tampere, Finlandia, 30/05-03/06/2018
+
+-   ""I don't regret towards the support that never came": Innovation in the interface between ELF and World Englishes". ICNICE 2018. Grupo de Investigación SPERTUS (Spoken English Research Team at the University of Santiago de Compostela), Santiago de Compostela, España, 14-15/06/2018
+
+-   "Substrate influence as a predictor of variability in sentential verb complementation: The case of Hong Kong English". 5th International Conference of the International Society for the Linguistics of English (isLE-5). Institute of English Studies, University of London, Londres, Reino Unido, 17-20/07/2018
+
+-   "English as the lingua franca of the Internet in a polylingual world: Creativity and innovation". Second International Conference on Sociolinguistics (ICS.2). Eötvös Loránd University, Budapest, Hungría, 6-8/09/2018
+
+-   "Complementation patterns of regret in World Englishes". Research Seminar of the Department of English. Otto-Friedrich-Universität Bamberg, Bamberg, Alemania, 15/11/2018
+
+-   "GloWbE: Properties, problems and limitations". New Englishes, new Methods: Current methods in New Englishes research. Ruhr-Universität Bochum, Bochum, Alemania, 06/02/2019
+
+-   "African, Asian and the metropolitan varieties of English: A study on pluricentrity". International Conference on Pluricentricity vs. Pluriareality- Models, Vartieties, Approaches. Westfälische Wilhelms-Universität, Münster, Alemania, 8-10/02/2019
+
+-   "Negation and the Cognitive Complexity Principle in the English Clausal Complementation System". 8th Biennial International Conference on the Linguistics of Contemporary English (8 BICLCE). Otto-Friedrich-Universität Bamberg, Bamberg, Alemania, 26-28/09/2019. Premio a la Mejor Presentación de Investigador Predoctoral
+
+-   "The complementation profile of the verb regret in World Englishes". Research Seminar of the Department of Englis. Westfälische Wilhelms-Universität, Münster, Alemania, 21/11/2019
+
+-   "Determinants of variation in sentential complementation in World Englishes: A corpus-based approach". International Conference ICAME 41. Universität Heidelberg, Heidelberg, Alemania, 20-24/05/2020
+
+-   "Studying negation as a determinant of grammatical variation in English". 38th International Conference of the Spanish Society for Applied Linguistics (AESLA). Universidade da Coruña, España, 14-16/04/2021
+
+-   "Variation in the clausal complementation system in World Englishes: A corpus-based study of regret". Linguistic Research Colloquium. Technische Universität Dortmund, Dortmund, Alemania, 05/05/2021
+
+-   "The predicting power of geographical location in syntactic variability across World Englishes". Listening to the Voices That Count: LVTC research seminars. Universidade de Vigo, España, 02/06/2021
+
+-   "Geographical location as predictor of language variation in postcolonial Englishes". International Conference ICAME 42. Technische Universität Dortmund, Dortmund, Alemania, 18-21/08/2021
+
+-   "Language contact and substrate language effect in Asian varieties of English". 54th Annual Meeting of the Societas Linguistica Europaea (SLE). National and Kapodistrian University of Athens, Atenas, Grecia, 30/08-03/09/2021
+
+-   "Contact-induced variation and change in World Englishes". ELC Research seminars. Universidade de Santiago de Compostela, España, 28/09/2021
+
+-   "A dialectological approach to syntactic variability in global web-based English". CMC2022: 9th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora. Universidade de Santiago de Compostela, España, 28-29/09/2022
+
+<p><a href="#Top">UP ▲</a></p>
+
+<p><a id="Conference organization" name="Conference organization"></a></p>
+
+# Conference organization
+
+-   Colaboración en la organización del congreso International Conference "Modelling the linguistic architecture of English: theories and methods", Universidad de Vigo, 24-25/05/2018
+
+-   Colaboración en la organización del congreso 7th Biennial International Conference on the Linguistics of Contemporary English, Universidad de Vigo, 28-30/09/2017
+
+-   Colaboración en la organización del X Congreso de la Asociación de Centros de Lenguas en la Enseñanza Superior, Universidad de Vigo, 29/06-01/07/2017
+
+<p><a href="#Top">UP ▲</a></p>
+
+<p><a id="Proyects" name="Proyects"></a></p>
+
+# Research proyects
+
+-   Variación Morfosintáctica en los Nuevos Ingleses y Elaboración de recursos para su estudio (El Componente Gibraltareño del International Corpus of English, ICE-GBR) FFI2014-53930-P. Desde 01-01-2015, hasta 31-12-2017. Financiación: Ministerio Economía y Competitividad- Programa Fomento Investigación Científica-Técnica Excelencia. Entidad: Universidade de Vigo. IP: Elena Seoane Posse.
+
+-   Una aproximación de registro a la variación morfosintáctica en los Nuevos Ingleses y recopilación de recursos para su estudio (International Corpus of English - Gibraltar) FFI2017-82162-P. Desde 01-01-2018, hasta 31-12-2020. Financiación: Ministerio Economía y Competitividad- Programa Fomento Investigación Científica-Técnica Excelencia. Entidad: Universidade de Vigo. IP: Elena Seoane Posse.
+
+-   Variación morfosintáctica en variedades internacionales del inglés y elaboración de recursos para su estudio (International Corpus of English Gibraltar) PID2020-117030GB-I00. Desde 01-09-2021, hasta 01-09-2024. Financiación: Ministerio de Ciencia e Innovación (Programa Estatal de Generación de Conocimiento) . Entidad: Universidad de las Islas Baleares. IPs: Cristina Suárez Gómez y Lucía Loureiro Porto. 
+
+<p><a href="#Top">UP ▲</a></p>
+
+<p><a id="Awards" name="Awards"></a></p>
+
+# Awards
+
+-   December 2021. Premio Extraordinario de Doctorado en el área de Artes y Humanidades de la Universidad de Vigo.
+
+-   June 2020. [Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize) for Best Paper on any research-related topic in English language or English linguistics writen by an early-career scholar, awarded by the *International Society for the Linguistics of English* (isLE). Paper: "Negation as a predictor of clausal complement choice in World Englishes".
+
+-   September 2019. Premio a la Mejor Presentación de Investigador Predoctoral at the [*8th Biennial International Conference on the Linguistics of Contemporary English* (8 BICLCE)](https://www.uni-bamberg.de/en/eng-ling/biclce-2019/), held at Otto-Friedrich- Universität Bamberg (Alemania). Presentation: "Negation and the Cognitive Complexity Principle in the English Clausal Complementation System"
+
+-   December 2017. Premio a la Excelencia Académica para Nuevo Alumnado de Doctorado de la Universidad de Vigo, academic year 2017/2018.
+
+<p><a href="#Top">UP ▲</a></p>

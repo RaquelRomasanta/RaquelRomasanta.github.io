@@ -8,7 +8,7 @@ editor: visual
 ---
 
 ::: {#hero-heading}
-Raquel P. Romasanta is a full-time lecturer at the University of the Balearic Islands (Contratada Doctora). Her research interests include varieties of English, clausal complementation, and probabilistic variation.
+Raquel P. Romasanta is a full-time lecturer at the University of Santiago de Compostela (Ayudante Doctora). Her research interests include varieties of English, clausal complementation, and probabilistic variation.
 
 ## Education
 
@@ -24,7 +24,9 @@ University of Vigo, Spain \| B.A in in Elementary School Teaching \| June 2010
 
 ## Experience
 
-University of the Balearic Islands \| Full-time lecturer (Contratado Doctor) \| February 2023 - present
+University of Santiago de Compostela \| Full-time lecturer (Ayudante Doctor) \| April 2024 - present
+
+University of the Balearic Islands \| Full-time lecturer (Contratado Doctor) \| February 2023 - April 2024
 
 University of the Balearic Islands \| Full-time lecturer (Ayudante Doctor) \| September 2022 - February 2023
 
