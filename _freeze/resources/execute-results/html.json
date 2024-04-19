@@ -1,0 +1,16 @@
+{
+  "hash": "0b13230d2a7234c0a996d72c0a52a55a",
+  "result": {
+    "markdown": "---\ntitle: \"\"\neditor: visual\nformat:\n  html:\n    code-fold: true\n    code-tools: true\n---\n\n\n# Descriptive statistics\n\nlkasndf oasdnf as\n\n\n::: {.cell}\n\n```{.r .cell-code}\n3*13^2 \n```\n:::\n\n\n------------------------------------------------------------------------\n\n# Regression\n\nlkasndf oasdnf as\n\n\n::: {.cell}\n\n```{.r .cell-code}\n3*13^2 \n```\n:::\n\n\n------------------------------------------------------------------------\n",
+    "supporting": [
+      "resources_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
