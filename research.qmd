@@ -50,15 +50,15 @@ editor: visual
 
 -   **Romasanta**, Raquel P. 2023. *Probabilistic variability in clausal verb complementation in World Englishes.* Berlin: Peter Lang. <https://doi.org/10.3726/b20677>
 
--   **Romasanta**, Raquel P. 2023. "I regret lying" vs. "I regret that I lied": Variation in the clausal complementation profile of regret in American and British English. *Miscelánea* 65: 37-58. <https://doi.org/10.26754/ojs_misc/mj.20226828> \\\| {{< ai open-access >}} [Open access](https://papiro.unizar.es/ojs/index.php/misc/article/view/6828/5862){target="_blank"}
+-   **Romasanta**, Raquel P. 2022. "I regret lying" vs. "I regret that I lied": Variation in the clausal complementation profile of regret in American and British English. *Miscelánea* 65: 37-58. <https://doi.org/10.26754/ojs_misc/mj.20226828> \\\| {{< ai open-access >}} [Open access](https://papiro.unizar.es/ojs/index.php/misc/article/view/6828/5862){target="_blank"}
 
--   **Romasanta**, Raquel P. 2023. Negation as a predictor of clausal complement choice in World Englishes. *English Language and Linguistics* 26(2): 307-329. <https://doi.org/10.1017/S1360674321000241> \\\| {{< ai open-access >}} [Open access](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8A9DA89BA73455047ED6433A9AF97772/S1360674321000241a.pdf/negation-as-a-predictor-of-clausal-complement-choice-in-world-englishes.pdf){target="_blank"}
+-   **Romasanta**, Raquel P. 2021. Negation as a predictor of clausal complement choice in World Englishes. *English Language and Linguistics* 26(2): 307-329. <https://doi.org/10.1017/S1360674321000241> \\\| {{< ai open-access >}} [Open access](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8A9DA89BA73455047ED6433A9AF97772/S1360674321000241a.pdf/negation-as-a-predictor-of-clausal-complement-choice-in-world-englishes.pdf){target="_blank"}
 
--   **Romasanta**, Raquel P. 2023. Substrate Language Influence in Postcolonial Asian Englishes and the Role of Transfer in the Complementation System. *English Studies* 102(8): 1151-1170. <https://doi.org/10.1080/0013838X.2021.1966968> \\\| <i class="fa-regular fa-file"></i> [Preprint](https://osf.io/preprints/psyarxiv/x2q4j){target="_blank"}
+-   **Romasanta**, Raquel P. 2021. Substrate Language Influence in Postcolonial Asian Englishes and the Role of Transfer in the Complementation System. *English Studies* 102(8): 1151-1170. <https://doi.org/10.1080/0013838X.2021.1966968> \\\| <i class="fa-regular fa-file"></i> [Preprint](https://osf.io/preprints/psyarxiv/x2q4j){target="_blank"}
 
--   **Romasanta**, Raquel P. 2023. Innovation at the Grammar-lexis Intersection in World Englishes. *Nordic Journal of English Studies* 18(2): 1-36. <https://doi.org/10.35360/njes.504> \\\| {{< ai open-access >}} [Open access](https://doi.org/10.35360/njes.504){target="_blank"}
+-   **Romasanta**, Raquel P. 2019. Innovation at the Grammar-lexis Intersection in World Englishes. *Nordic Journal of English Studies* 18(2): 1-36. <https://doi.org/10.35360/njes.504> \\\| {{< ai open-access >}} [Open access](https://doi.org/10.35360/njes.504){target="_blank"}
 
--   **Romasanta**, Raquel P. 2023. Variability in verb complementation: Determinants of grammatical variation in indigenized L2 varieties of English. In *Corpus Approaches into World Englishes and Language Contrasts* (Studies in Variation, Contacts and Change in English 20), ed. by Hanna Parviainen, Mark Kaunisto & Päivi Pahta. Helsinki: VARIENG. <https://varieng.helsinki.fi/series/volumes/20/romasanta/>
+-   **Romasanta**, Raquel P. 2019. Variability in verb complementation: Determinants of grammatical variation in indigenized L2 varieties of English. In *Corpus Approaches into World Englishes and Language Contrasts* (Studies in Variation, Contacts and Change in English 20), ed. by Hanna Parviainen, Mark Kaunisto & Päivi Pahta. Helsinki: VARIENG. <https://varieng.helsinki.fi/series/volumes/20/romasanta/>
 
 -   **Romasanta**, Raquel P. 2017. Contact-induced variation in clausal verb complementation: the case of REGRET in World Englishes. *Alicante Journal of English Studies* 30: 122-149. <https://doi.org/10.14198/raei.2017.30.05> \\\| {{< ai open-access >}} [Open access](https://raei.ua.es/article/view/2017-n30-contact-induced-variation-in-clausal-verb-complementati/pdf){target="_blank"}
 
@@ -134,7 +134,7 @@ editor: visual
 
 -   Una aproximación de registro a la variación morfosintáctica en los Nuevos Ingleses y recopilación de recursos para su estudio (International Corpus of English - Gibraltar) FFI2017-82162-P. Desde 01-01-2018, hasta 31-12-2020. Financiación: Ministerio Economía y Competitividad- Programa Fomento Investigación Científica-Técnica Excelencia. Entidad: Universidade de Vigo. IP: Elena Seoane Posse.
 
--   Variación morfosintáctica en variedades internacionales del inglés y elaboración de recursos para su estudio (International Corpus of English Gibraltar) PID2020-117030GB-I00. Desde 01-09-2021, hasta 01-09-2024. Financiación: Ministerio de Ciencia e Innovación (Programa Estatal de Generación de Conocimiento) . Entidad: Universidad de las Islas Baleares. IPs: Cristina Suárez Gómez y Lucía Loureiro Porto. 
+-   Variación morfosintáctica en variedades internacionales del inglés y elaboración de recursos para su estudio (International Corpus of English Gibraltar) PID2020-117030GB-I00. Desde 01-09-2021, hasta 01-09-2024. Financiación: Ministerio de Ciencia e Innovación (Programa Estatal de Generación de Conocimiento) . Entidad: Universidad de las Islas Baleares. IPs: Cristina Suárez Gómez y Lucía Loureiro Porto.
 
 <p><a href="#Top">UP ▲</a></p>
 
