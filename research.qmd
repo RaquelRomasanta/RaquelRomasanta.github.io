@@ -64,7 +64,7 @@ editor: visual
 
 # Presentations
 
--   "A corpus-based approach to the complementation of retrospective verbs in World Englishes". 10th Biennial International Conference on the Linguistics of Contemporary English (10 BICLCE). Universitat d'Alacant, España, 26-28/09/2014
+-   "A corpus-based approach to the complementation of retrospective verbs in World Englishes". 10th Biennial International Conference on the Linguistics of Contemporary English (10 BICLCE). Universitat d'Alacant, España, 26-28/09/2024
 
 -   Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. "Regression and random forests: Synergies for variationist corpus research". International Conference ICAME 45. Universidade de Vigo, España, 18-22/06/2024
 
