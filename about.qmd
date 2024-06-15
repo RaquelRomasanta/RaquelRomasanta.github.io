@@ -8,7 +8,7 @@ editor: visual
 ---
 
 ::: {#hero-heading}
-Raquel P. Romasanta is a full-time lecturer at the University of Santiago de Compostela (Ayudante Doctora). Her research interests include varieties of English, clausal complementation, and probabilistic variation.
+Raquel P. Romasanta is a full-time lecturer at the University of Santiago de Compostela (Ayudante Doctora). Her research interests include varieties of English, corpus linguistics, language variation and change, statistical analysis of language data
 
 ## Education
 

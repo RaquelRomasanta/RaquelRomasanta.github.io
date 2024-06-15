@@ -10,6 +10,12 @@ editor: visual
 
 </form>
 
+<form action="#Datasets" style="display: inline-block;">
+
+<input class="button" type="submit" value="Datasets" /> 
+
+</form>
+
 <form action="#Presentations" style="display: inline-block;">
 
 <input class="button" type="submit" value="Presentations" /> 
@@ -32,11 +38,17 @@ editor: visual
 
 # Publications
 
+#### Unpublished
+
 -   **Romasanta**, Raquel P. (in review). A dialectological approach to syntactic variability in global web-based English
 
--   Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. (in preparation). Regression and random forests: Synergies for variationist corpus research
+-   Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. (in preparation). Regression and random forests: Synergies for variationist corpus research. {{< ai psyarxiv >}} [Working paper](https://doi.org/10.31234/osf.io/afuh9) \| {{< ai osf >}} [OSF](https://osf.io/5u8bt/)
 
 -   **Romasanta**, Raquel P. (in preparation). A corpus-based approach to the complementation of retrospective verbs in World Englishes
+
+\
+
+#### Published
 
 -   **Romasanta**, Raquel P. 2023. A morphosyntactic approach to language contact in African varieties of English. *Studia Neophilologica* 95(1): 146-169. <https://doi.org/10.1080/00393274.2021.1978314> \\\| {{< fa file >}} [Preprint](https://osf.io/preprints/psyarxiv/4ux9k){target="_blank"}
 
@@ -61,6 +73,14 @@ editor: visual
 <p><a href="#Top">UP ▲</a></p>
 
 <p><a id="Presentations" name="Presentations"></a></p>
+
+# Datasets
+
+-   Romasanta, Raquel P., 2024, "Background data for: Regression and random forests: Synergies for variationist corpus research", <https://doi.org/10.18710/MHGXDH>, DataverseNO, V1.
+
+<p><a href="#Top">UP ▲</a></p>
+
+<p><a id="Datasets" name="Datasets"></a></p>
 
 # Presentations
 
