@@ -40,9 +40,11 @@ editor: visual
 
 #### Unpublished
 
--   **Romasanta**, Raquel P. (in review). A dialectological approach to syntactic variability in global web-based English
+-   **Romasanta**, Raquel P. (acepted). A dialectological approach to syntactic variability in global web-based English. RiCL.
 
 -   Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. (in preparation). Regression and random forests: Synergies for variationist corpus research. {{< ai psyarxiv >}} [Working paper](https://doi.org/10.31234/osf.io/afuh9) \| {{< ai osf >}} [OSF](https://osf.io/5u8bt/)
+
+-   Calvo Benzies, Yolanda Joy and Raquel P. **Romasanta**. (in preparation). Enhancing student-teacher collaboration: A reflective exploration of ChatGPT in the English for Tourism (EfT) classroom
 
 -   **Romasanta**, Raquel P. (in preparation). A corpus-based approach to the complementation of retrospective verbs in World Englishes
 
@@ -84,53 +86,57 @@ editor: visual
 
 # Presentations
 
--   "A corpus-based approach to the complementation of retrospective verbs in World Englishes". 10th Biennial International Conference on the Linguistics of Contemporary English (10 BICLCE). Universitat d'Alacant, España, 26-28/09/2024
+-   **Romasanta**, Raquel P. "Variation in the Clausal Complementation System in World Englishes". 47th AEDEAN Conference. University Pablo de Olavide, Sevilla. 6-8/11/2024
+
+-   **Romasanta**, Raquel P. "A corpus-based approach to the complementation of retrospective verbs in World Englishes". 10th Biennial International Conference on the Linguistics of Contemporary English (10 BICLCE). Universitat d'Alacant, España, 26-28/09/2024
+
+-   Calvo Benzies, Yolanda Joy and Raquel P. **Romasanta**. "Enhancing student-teacher collaboration: A reflective exploration of ChatGPT in the English for Tourism (EfT) classroom". IV CONGRESO INTERNACIONAL Innovación en la docencia e investigación de las Ciencias Sociales y Jurídicas (INNDOC), 27-28/06/2024
 
 -   Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. "Regression and random forests: Synergies for variationist corpus research". International Conference ICAME 45. Universidade de Vigo, España, 18-22/06/2024
 
--   "A dialectological approach to syntactic variability in global web-based English". CMC2022: 9th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora. Universidade de Santiago de Compostela, España, 28-29/09/2022
+-   **Romasanta**, Raquel P. "A dialectological approach to syntactic variability in global web-based English". CMC2022: 9th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora. Universidade de Santiago de Compostela, España, 28-29/09/2022
 
--   "Contact-induced variation and change in World Englishes". ELC Research seminars. Universidade de Santiago de Compostela, España, 28/09/2021
+-   **Romasanta**, Raquel P. "Contact-induced variation and change in World Englishes". ELC Research seminars. Universidade de Santiago de Compostela, España, 28/09/2021
 
--   "Language contact and substrate language effect in Asian varieties of English". 54th Annual Meeting of the Societas Linguistica Europaea (SLE). National and Kapodistrian University of Athens, Atenas, Grecia, 30/08-03/09/2021
+-   **Romasanta**, Raquel P. "Language contact and substrate language effect in Asian varieties of English". 54th Annual Meeting of the Societas Linguistica Europaea (SLE). National and Kapodistrian University of Athens, Atenas, Grecia, 30/08-03/09/2021
 
--   "Geographical location as predictor of language variation in postcolonial Englishes". International Conference ICAME 42. Technische Universität Dortmund, Dortmund, Alemania, 18-21/08/2021
+-   **Romasanta**, Raquel P. "Geographical location as predictor of language variation in postcolonial Englishes". International Conference ICAME 42. Technische Universität Dortmund, Dortmund, Alemania, 18-21/08/2021
 
--   "The predicting power of geographical location in syntactic variability across World Englishes". Listening to the Voices That Count: LVTC research seminars. Universidade de Vigo, España, 02/06/2021
+-   **Romasanta**, Raquel P. "The predicting power of geographical location in syntactic variability across World Englishes". Listening to the Voices That Count: LVTC research seminars. Universidade de Vigo, España, 02/06/2021
 
--   "Variation in the clausal complementation system in World Englishes: A corpus-based study of regret". Linguistic Research Colloquium. Technische Universität Dortmund, Dortmund, Alemania, 05/05/2021
+-   **Romasanta**, Raquel P. "Variation in the clausal complementation system in World Englishes: A corpus-based study of regret". Linguistic Research Colloquium. Technische Universität Dortmund, Dortmund, Alemania, 05/05/2021
 
--   "Studying negation as a determinant of grammatical variation in English". 38th International Conference of the Spanish Society for Applied Linguistics (AESLA). Universidade da Coruña, España, 14-16/04/2021
+-   **Romasanta**, Raquel P. "Studying negation as a determinant of grammatical variation in English". 38th International Conference of the Spanish Society for Applied Linguistics (AESLA). Universidade da Coruña, España, 14-16/04/2021
 
--   "Determinants of variation in sentential complementation in World Englishes: A corpus-based approach". International Conference ICAME 41. Universität Heidelberg, Heidelberg, Alemania, 20-24/05/2020
+-   **Romasanta**, Raquel P. "Determinants of variation in sentential complementation in World Englishes: A corpus-based approach". International Conference ICAME 41. Universität Heidelberg, Heidelberg, Alemania, 20-24/05/2020
 
--   "The complementation profile of the verb regret in World Englishes". Research Seminar of the Department of Englis. Westfälische Wilhelms-Universität, Münster, Alemania, 21/11/2019
+-   **Romasanta**, Raquel P. "The complementation profile of the verb regret in World Englishes". Research Seminar of the Department of Englis. Westfälische Wilhelms-Universität, Münster, Alemania, 21/11/2019
 
--   "Negation and the Cognitive Complexity Principle in the English Clausal Complementation System". 8th Biennial International Conference on the Linguistics of Contemporary English (8 BICLCE). Otto-Friedrich-Universität Bamberg, Bamberg, Alemania, 26-28/09/2019. Premio a la Mejor Presentación de Investigador Predoctoral
+-   **Romasanta**, Raquel P. "Negation and the Cognitive Complexity Principle in the English Clausal Complementation System". 8th Biennial International Conference on the Linguistics of Contemporary English (8 BICLCE). Otto-Friedrich-Universität Bamberg, Bamberg, Alemania, 26-28/09/2019. Premio a la Mejor Presentación de Investigador Predoctoral
 
--   "African, Asian and the metropolitan varieties of English: A study on pluricentrity". International Conference on Pluricentricity vs. Pluriareality- Models, Vartieties, Approaches. Westfälische Wilhelms-Universität, Münster, Alemania, 8-10/02/2019
+-   **Romasanta**, Raquel P. "African, Asian and the metropolitan varieties of English: A study on pluricentrity". International Conference on Pluricentricity vs. Pluriareality- Models, Vartieties, Approaches. Westfälische Wilhelms-Universität, Münster, Alemania, 8-10/02/2019
 
--   "GloWbE: Properties, problems and limitations". New Englishes, new Methods: Current methods in New Englishes research. Ruhr-Universität Bochum, Bochum, Alemania, 06/02/2019
+-   **Romasanta**, Raquel P. "GloWbE: Properties, problems and limitations". New Englishes, new Methods: Current methods in New Englishes research. Ruhr-Universität Bochum, Bochum, Alemania, 06/02/2019
 
--   "Complementation patterns of regret in World Englishes". Research Seminar of the Department of English. Otto-Friedrich-Universität Bamberg, Bamberg, Alemania, 15/11/2018
+-   **Romasanta**, Raquel P. "Complementation patterns of regret in World Englishes". Research Seminar of the Department of English. Otto-Friedrich-Universität Bamberg, Bamberg, Alemania, 15/11/2018
 
--   "English as the lingua franca of the Internet in a polylingual world: Creativity and innovation". Second International Conference on Sociolinguistics (ICS.2). Eötvös Loránd University, Budapest, Hungría, 6-8/09/2018
+-   **Romasanta**, Raquel P. "English as the lingua franca of the Internet in a polylingual world: Creativity and innovation". Second International Conference on Sociolinguistics (ICS.2). Eötvös Loránd University, Budapest, Hungría, 6-8/09/2018
 
--   "Substrate influence as a predictor of variability in sentential verb complementation: The case of Hong Kong English". 5th International Conference of the International Society for the Linguistics of English (isLE-5). Institute of English Studies, University of London, Londres, Reino Unido, 17-20/07/2018
+-   **Romasanta**, Raquel P. "Substrate influence as a predictor of variability in sentential verb complementation: The case of Hong Kong English". 5th International Conference of the International Society for the Linguistics of English (isLE-5). Institute of English Studies, University of London, Londres, Reino Unido, 17-20/07/2018
 
--   ""I don't regret towards the support that never came": Innovation in the interface between ELF and World Englishes". ICNICE 2018. Grupo de Investigación SPERTUS (Spoken English Research Team at the University of Santiago de Compostela), Santiago de Compostela, España, 14-15/06/2018
+-   **Romasanta**, Raquel P. ""I don't regret towards the support that never came": Innovation in the interface between ELF and World Englishes". ICNICE 2018. Grupo de Investigación SPERTUS (Spoken English Research Team at the University of Santiago de Compostela), Santiago de Compostela, España, 14-15/06/2018
 
--   "The impact of substrate influence on sentential verb complementation across World Englishes". International Conference ICAME 39. University of Tampere, Tampere, Finlandia, 30/05-03/06/2018
+-   **Romasanta**, Raquel P. "The impact of substrate influence on sentential verb complementation across World Englishes". International Conference ICAME 39. University of Tampere, Tampere, Finlandia, 30/05-03/06/2018
 
--   "The verbal complementation profile of regret in World Englishes: Variation and innovation". Graduate Day 2018. Interuniversity Doctoral Programme in Advanced English Studies (IDAES), Universidad de Vigo, Vigo, España, 04/05/2018
+-   **Romasanta**, Raquel P. "The verbal complementation profile of regret in World Englishes: Variation and innovation". Graduate Day 2018. Interuniversity Doctoral Programme in Advanced English Studies (IDAES), Universidad de Vigo, Vigo, España, 04/05/2018
 
--   ""I regret that I spoke" vs. "I regret speaking": Variability in sentential verb complementation in British and American English". 7th Biennial International Conference on the Linguistics of Contemporary English, Universidad de Vigo, Vigo, España, 28-30/09/2017
+-   **Romasanta**, Raquel P. ""I regret that I spoke" vs. "I regret speaking": Variability in sentential verb complementation in British and American English". 7th Biennial International Conference on the Linguistics of Contemporary English, Universidad de Vigo, Vigo, España, 28-30/09/2017
 
--   "Morphosyntactic variation in contemporary American and British English: The sentential complementation profile of emotion verbs". Graduate Day 2017. Interuniversity Doctoral Programme in Advanced English Studies (IDAES), Universidad de Coruña, A Coruña, España, 30/05/2017
+-   **Romasanta**, Raquel P. "Morphosyntactic variation in contemporary American and British English: The sentential complementation profile of emotion verbs". Graduate Day 2017. Interuniversity Doctoral Programme in Advanced English Studies (IDAES), Universidad de Coruña, A Coruña, España, 30/05/2017
 
--   "The clausal complementation profile of the verb regret in British and American English". Santiago-Leuven-Edinburgh seminar on Grammatical Variation and Change in English. University of Leuven, Leuven, Bélgica, 04-05/04/2017
+-   **Romasanta**, Raquel P. "The clausal complementation profile of the verb regret in British and American English". Santiago-Leuven-Edinburgh seminar on Grammatical Variation and Change in English. University of Leuven, Leuven, Bélgica, 04-05/04/2017
 
--   "The compilation of the International Corpus of Gibraltar English: Problems and prospects". The Sociolinguistics of Gibraltar in 21st Century. Departamento de Filología Inglesa, Francesa y Alemana, Universidad de Vigo, Vigo, España, 16/11/2016
+-   Seoane, Elena and Raquel P. **Romasanta**. "The compilation of the International Corpus of Gibraltar English: Problems and prospects". The Sociolinguistics of Gibraltar in 21st Century. Departamento de Filología Inglesa, Francesa y Alemana, Universidad de Vigo, Vigo, España, 16/11/2016
 
 <p><a href="#Top">UP ▲</a></p>
 
