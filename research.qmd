@@ -40,17 +40,15 @@ editor: visual
 
 #### Unpublished
 
--   **Romasanta**, Raquel P. (acepted). A dialectological approach to syntactic variability in global web-based English. RiCL.
-
 -   Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. (in preparation). Regression and random forests: Synergies for variationist corpus research. {{< ai psyarxiv >}} [Working paper](https://doi.org/10.31234/osf.io/afuh9) \| {{< ai osf >}} [OSF](https://osf.io/5u8bt/)
-
--   Calvo Benzies, Yolanda Joy and Raquel P. **Romasanta**. (in preparation). Enhancing student-teacher collaboration: A reflective exploration of ChatGPT in the English for Tourism (EfT) classroom
 
 -   **Romasanta**, Raquel P. (in preparation). A corpus-based approach to the complementation of retrospective verbs in World Englishes
 
-\
-
 #### Published
+
+-   **Romasanta**, Raquel P. 2025. A dialectological approach to syntactic variability in global web-based English. *Research in Corpus Linguistics* 13(1): 197-220. <https://doi.org/10.32714/ricl.13.01.09> \\\| {{< ai open-access >}} [Open access](https://ricl.aelinco.es/first-view/348-Article%20Text-2861-2-11-20240922.pdf){target="_blank"}
+
+-   Calvo Benzies, Yolanda Joy and Raquel P. **Romasanta**. 2024. Enhancing student-teacher collaboration: A reflective exploration of ChatGPT in the English for Tourism (EfT) classroom
 
 -   **Romasanta**, Raquel P. 2023. A morphosyntactic approach to language contact in African varieties of English. *Studia Neophilologica* 95(1): 146-169. <https://doi.org/10.1080/00393274.2021.1978314> \\\| {{< fa file >}} [Preprint](https://osf.io/preprints/psyarxiv/4ux9k){target="_blank"}
 
