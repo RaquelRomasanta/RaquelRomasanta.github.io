@@ -48,7 +48,7 @@ editor: visual
 
 -   **Romasanta**, Raquel P. 2025. A dialectological approach to syntactic variability in global web-based English. *Research in Corpus Linguistics* 13(1): 197-220. <https://doi.org/10.32714/ricl.13.01.09> \\\| {{< ai open-access >}} [Open access](https://ricl.aelinco.es/first-view/348-Article%20Text-2861-2-11-20240922.pdf){target="_blank"}
 
--   Calvo Benzies, Yolanda Joy and Raquel P. **Romasanta**. 2024. Enhancing student-teacher collaboration: A reflective exploration of ChatGPT in the English for Tourism (EfT) classroom
+-   Calvo Benzies, Yolanda Joy and Raquel P. **Romasanta**. 2024. Enhancing student-teacher collaboration: A reflective exploration of ChatGPT in the English for Tourism (EfT) classroom. Dykinson.
 
 -   **Romasanta**, Raquel P. 2023. A morphosyntactic approach to language contact in African varieties of English. *Studia Neophilologica* 95(1): 146-169. <https://doi.org/10.1080/00393274.2021.1978314> \\\| {{< fa file >}} [Preprint](https://osf.io/preprints/psyarxiv/4ux9k){target="_blank"}
 
@@ -77,6 +77,10 @@ editor: visual
 # Datasets
 
 -   Romasanta, Raquel P., 2024, "Background data for: Regression and random forests: Synergies for variationist corpus research", <https://doi.org/10.18710/MHGXDH>, DataverseNO, V1.
+-   Romasanta, Raquel P., 2024, "Background data for: Negation as a predictor of clausal complement choice in World Englishes", <https://doi.org/10.18710/CSQ4ZF>, DataverseNO, V1.
+-   Romasanta, Raquel P., 2024, "Background data for: “I regret lying” VS. “I regret that I lied”: Variation in the clausal complementation profile of REGRET in American and British English", <https://doi.org/10.18710/VMGWLB>, DataverseNO, V1.
+-   Romasanta, Raquel P., 2024, "Background data for: Probabilistic variability in clausal verb complementation in World Englishes", <https://doi.org/10.18710/J7Q7QM>, DataverseNO, V1.
+-   Romasanta, Raquel P., 2024, "Background data for: Regional syntactic variability in the complementation system of global varieties of English", <https://doi.org/10.18710/PBBSGH>, DataverseNO, V1.
 
 <p><a href="#Top">UP ▲</a></p>
 
