@@ -88,9 +88,7 @@ editor: visual
 
 # Presentations
 
--   **Romasanta**, Raquel P. "Variation in the Clausal Complementation System in World Englishes". 47th AEDEAN Conference. University Pablo de Olavide, Sevilla. 6-8/11/2024
-
--   **Romasanta**, Raquel P. "A corpus-based approach to the complementation of retrospective verbs in World Englishes". 10th Biennial International Conference on the Linguistics of Contemporary English (10 BICLCE). Universitat d'Alacant, España, 26-28/09/2024
+-   Calvo Benzies, Yolanda Joy and **Romasanta**, Raquel P. "ChatGPT in the ESP classroom: A missed opportunity?". XIV Congreso de Literatura, Lengua y Traducción (liLETRAd), 19-21/03/2025
 
 -   Calvo Benzies, Yolanda Joy and Raquel P. **Romasanta**. "Enhancing student-teacher collaboration: A reflective exploration of ChatGPT in the English for Tourism (EfT) classroom". IV CONGRESO INTERNACIONAL Innovación en la docencia e investigación de las Ciencias Sociales y Jurídicas (INNDOC), 27-28/06/2024
 
