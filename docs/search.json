@@ -137,7 +137,7 @@
     "href": "inferential.html",
     "title": "Inferential Statistics",
     "section": "",
-    "text": "This section focuses on statistical inference techniques using R.\n\nHypothesis testing (t-tests, chi-square tests)\nConfidence intervals\nLinear regression\n\nReproducible examples and R code will be provided here."
+    "text": "This section will focus on statistical inference techniques using R.\n\nHypothesis testing (t-tests, chi-square tests)\nConfidence intervals\nLinear regression\n\nReproducible examples and R code will be provided here."
   },
   {
     "objectID": "inferential.html#inferential-statistics",
@@ -151,7 +151,7 @@
     "href": "rcode.html",
     "title": "R Code Library",
     "section": "",
-    "text": "This section is a practical reference of useful R code snippets.\n\nData import and cleaning\nExploratory data analysis\nData visualization\nStatistical tests\n\nCode will be organized by topic and continuously updated."
+    "text": "This section will be a practical reference of useful R code snippets.\n\nData import and cleaning\nExploratory data analysis\nData visualization\nStatistical tests\n\nCode will be organized by topic and continuously updated."
   },
   {
     "objectID": "rcode.html#r-code-library",
