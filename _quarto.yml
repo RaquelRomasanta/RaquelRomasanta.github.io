@@ -32,8 +32,6 @@ website:
 
           
 
-
-
-output:
-  html_document:
-    theme: simplex
+format: 
+  html:
+    theme: flatly
