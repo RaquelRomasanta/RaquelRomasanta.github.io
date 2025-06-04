@@ -21,5 +21,5 @@ editor: visual
 
 ## Lecturer at the University of Santiago de Compostela
 
-[Learn more about me](#about){.btn .btn-primary style="margin-top: 1em;"}
+[Learn more about me](/about.html){.btn .btn-primary style="margin-top: 1em;"}
 
