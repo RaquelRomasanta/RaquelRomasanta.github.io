@@ -8,17 +8,20 @@ author:
     orcid: https://orcid.org/0000-0001-7508-4745
     affiliation: University of the Balearic Islands
 date: 05-23-2022
-#categories: [Quarto, R, MEDS] # self-defined categories
+categories: [Invited lecture] 
 #citation: 
   #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
 image: images/fabra.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+Last week, I had the pleasure of giving an invited talk at Pompeu Fabra University in Barcelona, titled *Towards Monolingualism: The Linguistic Ecology of Gibraltar*.
+
+The discussion sparked engaging reflections among both staff and students, who drew thought-provoking parallels between the sociolinguistic dynamics of Gibraltar and those of Catalonia. There was particular interest in the potential creole status of Yanito, one of Gibraltar’s vernaculars.
+
+I’m very grateful for the warm welcome and the stimulating feedback I received — it was a real pleasure to share ideas in such a vibrant academic setting.
+
 ::: {style="display: flex; justify-content: center; align-items: center"}
 ![](images/pompeu.png)
 :::
 
-------------------------------------------------------------------------
-
-Last week, I gave an invited talk at the Pompeu Fabra University in Barcelona, with the title *Towards Monolingualism: The Linguistic Ecology of Gibraltar*. Staff and students drew parallels between the sociolinguistic  situation in Gibraltar and in Catalonia, and were intrigued about the potential creole status of Yanito, one of the vernacular languages. All feedback was exciting and very welcome!  

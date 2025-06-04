@@ -8,11 +8,13 @@ author:
     orcid: https://orcid.org/0000-0001-7508-4745
     affiliation: University of the Balearic Islands
 date: 11-03-2022
-#categories: [Quarto, R, MEDS] # self-defined categories
+categories: [New position] 
 #citation: 
-  #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
+  #url: https://raquelromasanta.github.io/posts/2022-11-03-UIB/
 image: images/UIB.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-Last September, I obtained a junior lectureship (Ayudante Doctora) at the University of the Balearic Islands. This is a full time tenure-track position for five years.
+Last September, I joined the University of the Balearic Islands (UIB) as a Junior Lecturer (*Ayudante Doctora*) in the Department of Spanish, Modern and Classical Philology.
+
+Established in 1978, the University of the Balearic Islands is a dynamic institution with a strong international outlook and a growing research profile. The Department of Spanish, Modern and Classical Philology offers a diverse academic environment that brings together specialists in language, literature, and linguistics across several linguistic traditions.

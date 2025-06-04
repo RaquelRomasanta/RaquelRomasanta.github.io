@@ -8,11 +8,13 @@ author:
     orcid: https://orcid.org/0000-0001-7508-4745
     affiliation: University of the Balearic Islands
 date: 19-04-2024
-#categories: [Quarto, R, MEDS] # self-defined categories
+categories: [New position] 
 #citation: 
-  #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
+  #url: https://raquelromasanta.github.io/posts/2024-04-19-USC/
 image: images/usc.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-This April, I obtained a junior lectureship (Ayudante Doctora) at the University of Santiago de Compostela. This is a full time tenure-track position for five years.
+I'm thrilled to share that, as of April, I’ve joined the University of Santiago de Compostela as a Junior Lecturer (*Ayudante Doctora*) in the Department of English and German Philology. This is a full-time, five-year tenure-track position, and I’m excited to be part of such a vibrant academic community.
+
+Founded in 1495, the University of Santiago de Compostela is one of Spain’s oldest and most prestigious universities, with a strong commitment to research, academic excellence, and public service. The Department of English and German Philology is known for its dynamic research environment and its wide range of teaching and research areas, including linguistics, literature, and cultural studies across English- and German-speaking contexts.

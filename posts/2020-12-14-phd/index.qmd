@@ -8,15 +8,19 @@ author:
     orcid: https://orcid.org/0000-0001-7508-4745
     affiliation: University of the Balearic Islands
 date: 12-14-2020
-#categories: [Quarto, R, MEDS] # self-defined categories
+categories: [PhD] # self-defined categories
 #citation: 
   #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
 image: images/phd.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-I obtained my PhD this morning. The dissertation is entitled [*Variation in the clausal complementation system in World Englishes: A corpus-based study of REGRET*](https://www.investigo.biblioteca.uvigo.es/xmlui/handle/11093/1688?show=full){target="_blank"} and merited the highest grade (sobresaliente cum laude). Supervisors: Elena Seoane (University of Vigo) and Manfred Krug (University of Bamberg).
+I'm delighted to share that I successfully defended my PhD dissertation this morning.
 
-I want to express our gratitude to the board members, Professors Sarah Buschfeld (TU Dortmund), Pérez-Guerra (Uvigo) and Loureiro-Porto (UIB), for the wealth and depth of their feedback.
+The thesis, titled [*Variation in the clausal complementation system in World Englishes: A corpus-based study of REGRET*](https://www.investigo.biblioteca.uvigo.es/xmlui/handle/11093/1688?show=full){target="_blank"}, was awarded the highest distinction (*sobresaliente cum laude*).
 
-I am now a postdoctoral at the University of Vigo.
+I am deeply grateful to my supervisors, **Prof. Elena Seoane** (University of Vigo) and **Prof. Manfred Krug** (University of Bamberg), for their guidance throughout this journey.
+
+I would also like to sincerely thank the members of the examination board — **Prof. Sarah Buschfeld** (TU Dortmund), **Prof. Javier Pérez-Guerra** (University of Vigo), and **Prof. Lourdes Loureiro-Porto** (University of the Balearic Islands) — for their insightful and enriching feedback.
+
+I’m now continuing my academic path as a **postdoctoral researcher at the University of Vigo**.

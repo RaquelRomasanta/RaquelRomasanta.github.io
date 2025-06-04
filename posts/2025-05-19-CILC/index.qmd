@@ -1,0 +1,18 @@
+---
+title: "New position at USC"
+editor: visual
+description: "Obtain a junior lectureship at USC"
+author:
+  - name: Raquel P. Romasanta
+    url: https://orcid.org/0000-0001-7508-4745
+    orcid: https://orcid.org/0000-0001-7508-4745
+    affiliation: University of the Balearic Islands
+date: 19-04-2024
+categories: [New position] 
+citation: 
+  url: https://raquelromasanta.github.io/posts/2024-04-19-USC/
+image: images/usc.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+This April, I obtained a junior lectureship (Ayudante Doctora) at the University of Santiago de Compostela. This is a full time tenure-track position for five years.

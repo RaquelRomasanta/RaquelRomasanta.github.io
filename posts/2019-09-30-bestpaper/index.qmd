@@ -8,14 +8,18 @@ author:
     orcid: https://orcid.org/0000-0001-7508-4745
     affiliation: University of the Balearic Islands
 date: 09-30-2019
-#categories: [Quarto, R, MEDS] # self-defined categories
+categories: [Prize] 
 #citation: 
   #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
 image: images/best.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-During the [*8th Biennial International Conference on the Linguistics of Contemporary English* (8 BICLCE)](https://www.uni-bamberg.de/en/eng-ling/biclce-2019/){target="_blank"} held at the Otto-Friedrich-Universität Bamberg, Germany (26-28 September), I was awarded the prize to the Best Paper presented at the conference by a junior researcher. The paper, entitled *Negation and the Cognitive Complexity Principle in the English Clausal Complementation System* is part of my PhD project, supervised by Elena Seoane and Manfred Krug.
+I’m happy to share that I was awarded the **Best Paper Prize for a Junior Researcher** at the [*8th Biennial International Conference on the Linguistics of Contemporary English* (8 BICLCE)](https://www.uni-bamberg.de/en/eng-ling/biclce-2019/){target="_blank"} , held at Otto-Friedrich-Universität Bamberg, Germany (26–28 September).
+
+My paper, *Negation and the Cognitive Complexity Principle in the English Clausal Complementation System*, forms part of my PhD research, supervised by **Elena Seoane** and **Manfred Krug**.
+
+I'm very grateful for this recognition and for the opportunity to present my work at such a stimulating and welcoming conference.
 
 ```{=html}
 <style>
@@ -28,4 +32,5 @@ During the [*8th Biennial International Conference on the Linguistics of Contemp
 }
 </style>
 ```
+
 {{< pdf resources/romasanta.pdf class=myclass >}}

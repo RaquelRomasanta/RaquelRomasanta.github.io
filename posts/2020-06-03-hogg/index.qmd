@@ -8,13 +8,17 @@ author:
     orcid: https://orcid.org/0000-0001-7508-4745
     affiliation: University of the Balearic Islands
 date: 06-03-2020
-#categories: [Quarto, R, MEDS] # self-defined categories
+categories: [Prize]
 #citation: 
   #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
 image: images/isle.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-On 2 June I was awarded the [Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize){target="_blank"} of the [International Society for the Linguistics of English (IsLE)](https://www.isle-linguistics.org/){target="_blank"} for my paper *Negation as a predictor of clausal complement choice in World Englishes*
+I'm honoured to share that on June 2nd I was awarded the [Richard M. Hogg Prize](https://www.isle-linguistics.org/activities/richard-m-hogg-prize){target="_blank"} by the [International Society for the Linguistics of English (IsLE)](https://www.isle-linguistics.org/){target="_blank"} for my paper *Negation as a Predictor of Clausal Complement Choice in World Englishes*.
 
-The Prize is awarded in open competition to early-career scholars, both pre and postdoctoral scholars. The Prize involves cash prize of £500, the publication of her paper on the **IsLE website**, an invitation and financial support to present her work in the next **IsLE conference**, and, additionally, an invitation to submit her prize-winning paper for competitive review for publication in *English Language and Linguistics*, the journal closely associated with the aims of the Society. The paper was later published in this journal in [open access](https://doi.org/10.1017/S1360674321000241){target="_blank"}.
+This prize is awarded in open competition to early-career scholars — both predoctoral and postdoctoral — and includes a £500 cash award, the publication of the paper on the IsLE website, and an invitation (with financial support) to present the research at the next IsLE conference.
+
+In addition, the paper was invited for submission to *English Language and Linguistics* — the journal closely associated with the Society — where it was later published as an [open access](https://doi.org/10.1017/S1360674321000241){target="_blank"} article.
+
+I’m incredibly grateful to the IsLE community for this recognition and support.

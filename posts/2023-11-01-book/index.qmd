@@ -8,15 +8,19 @@ author:
     orcid: https://orcid.org/0000-0001-7508-4745/
     affiliation: University of the Balearic Islands
 date: 06-01-2023
-#categories: [Quarto, R, MEDS] # self-defined categories
+categories: [Publication]
 #citation: 
-  #url: https://samanthacsik.github.io/posts/2022-10-24-ICAME2024/ 
+  #url: https://raquelromasanta.github.io/posts/2023-11-01-book/
 image: images/book.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-::: {style="display: flex; justify-content: center; align-items: center"}
-![](images/book.png)
+::::: columns
+::: {.column width="50%"}
+I just published the volume [*Probabilistic variability in clausal verb complementation in World Englishes*](https://www.peterlang.com/document/1319689){target="_blank"} (Peter Lang). The book explores finite and nonfinite clausal verb complementation in World Englishes. It provides an assessment of the influence of language contact, simplicity and transparency, geographical proximity, and evolutionary phase on this alternation. On the one hand, a quantitative analysis of GloWbE data through different statistical tests proves the effects of these factors on the choice between finite *that*-clauses and nonfinite -*ing* clauses. A number of intra-linguistic factors are also considered as potential explanatory factors. On the other hand, a detailed, manual, qualitative analysis results in the discovery of a series of new verb complementation structures available in English varieties around the world.
 :::
 
-I just published the volume [*Probabilistic variability in clausal verb complementation in World Englishes*](https://www.peterlang.com/document/1319689){target="_blank"} (Peter Lang). The book explores finite and nonfinite clausal verb complementation in World Englishes. It provides an assessment of the influence of language contact, simplicity and transparency, geographical proximity, and evolutionary phase on this alternation. On the one hand, a quantitative analysis of GloWbE data through different statistical tests proves the effects of these factors on the choice between finite *that*-clauses and nonfinite -*ing* clauses. A number of intra-linguistic factors are also considered as potential explanatory factors. On the other hand, a detailed, manual, qualitative analysis results in the discovery of a series of new verb complementation structures available in English varieties around the world.
+::: {.column width="50%"}
+![](images/book.png)
+:::
+:::::
