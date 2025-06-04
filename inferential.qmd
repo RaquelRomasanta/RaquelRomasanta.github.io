@@ -1,0 +1,13 @@
+---
+title: "Inferential Statistics"
+format: html
+---
+
+
+This section will focus on statistical inference techniques using R.
+
+- Hypothesis testing (t-tests, chi-square tests)
+- Confidence intervals
+- Linear regression
+
+Reproducible examples and R code will be provided here.
