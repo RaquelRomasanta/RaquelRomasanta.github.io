@@ -3,7 +3,7 @@ title: "Raquel P. Romasanta"
 about:
   template: jolla
   image: images/yo_misma.jpeg
-  links: 
+  links:  
     - text: "{{< fa envelope >}}" 
       href: mailto:raquel.romasanta@usc.es
     - text: "{{< fa brands github >}}" 

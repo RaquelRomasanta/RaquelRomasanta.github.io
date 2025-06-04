@@ -159,5 +159,12 @@
     "title": "R Code Library",
     "section": "",
     "text": "This section is a practical reference of useful R code snippets.\n\nData import and cleaning\nExploratory data analysis\nData visualization\nStatistical tests\n\nCode will be organized by topic and continuously updated."
+  },
+  {
+    "objectID": "posts/2025-05-19-CILC/index.html",
+    "href": "posts/2025-05-19-CILC/index.html",
+    "title": "New position at USC",
+    "section": "",
+    "text": "This April, I obtained a junior lectureship (Ayudante Doctora) at the University of Santiago de Compostela. This is a full time tenure-track position for five years.\n\n\n\nCitationBibTeX citation:@online{p. romasanta2025,\n  author = {P. Romasanta, Raquel},\n  title = {New Position at {USC}},\n  date = {2025-07-04},\n  url = {https://raquelromasanta.github.io/posts/2024-04-19-USC/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nP. Romasanta, Raquel. 2025. “New Position at USC.” July 4,\n2025. https://raquelromasanta.github.io/posts/2024-04-19-USC/."
   }
 ]
