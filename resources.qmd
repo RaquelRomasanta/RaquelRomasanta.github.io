@@ -7,28 +7,6 @@ format:
     code-tools: true
 ---
 
-# Descriptive statistics
+# 
 
-lkasndf oasdnf as
-
-```{r}
-#| label: testing
-#| echo: true
-#| eval: true
-#| output: false
-3*13^2 
-```
-
-------------------------------------------------------------------------
-
-# Regression
-
-lkasndf oasdnf as
-
-```{r}
-#| echo: true
-#| output: false
-3*13^2 
-```
-
-------------------------------------------------------------------------
+## 
