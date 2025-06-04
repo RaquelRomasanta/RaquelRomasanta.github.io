@@ -40,15 +40,19 @@ editor: visual
 
 #### Unpublished
 
+-   Raquel P. **Romasanta** and Calvo Benzies, Yolanda Joy. (submitted). ChatGPT in the ESP classroom: A missed opportunity?
+
 -   Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. (in preparation). Regression and random forests: Synergies for variationist corpus research. {{< ai psyarxiv >}} [Working paper](https://doi.org/10.31234/osf.io/afuh9) \| {{< ai osf >}} [OSF](https://osf.io/5u8bt/)
 
--   **Romasanta**, Raquel P. (in preparation). A corpus-based approach to the complementation of retrospective verbs in World Englishes
+-   **Romasanta**, Raquel P. (in preparation). Complementation Shifts in the History of English: A Study of Five Retrospective Verbs
+
+-   Bruyel Olmedo, Antonio, and Raquel P. **Romasanta**. (in preparation).
 
 #### Published
 
 -   **Romasanta**, Raquel P. 2025. A dialectological approach to syntactic variability in global web-based English. *Research in Corpus Linguistics* 13(1): 197-220. <https://doi.org/10.32714/ricl.13.01.09> \\\| {{< ai open-access >}} [Open access](https://ricl.aelinco.es/first-view/348-Article%20Text-2861-2-11-20240922.pdf){target="_blank"}
 
--   Calvo Benzies, Yolanda Joy and Raquel P. **Romasanta**. 2024. Enhancing student-teacher collaboration: A reflective exploration of ChatGPT in the English for Tourism (EfT) classroom. Dykinson.
+-   Calvo Benzies, Yolanda Joy and Raquel P. **Romasanta**. 2024. Integrating Extramural English with Classroom Instruction: Reflective Insights on the Use of ChatGPT in English for Tourism (EfT) Lessons to Promote Collaborative Learning. In *Innovación en el aula: nuevas estrategias didácticas en humanidades,* coord. by Isabel Granados Chiguer, Verónica Jiménez Jiménez, José Andrés Carretero Bruña, Pedro Miguel Naranjo and Juan Álvarez García, 1166-1194. Dykinson. [Link](https://www.dykinson.com/libros/innovacion-en-el-aula-nuevas-estrategias-didacticas-en-humanidades/9788410706897/).
 
 -   **Romasanta**, Raquel P. 2023. A morphosyntactic approach to language contact in African varieties of English. *Studia Neophilologica* 95(1): 146-169. <https://doi.org/10.1080/00393274.2021.1978314> \\\| {{< fa file >}} [Preprint](https://osf.io/preprints/psyarxiv/4ux9k){target="_blank"}
 
@@ -87,6 +91,10 @@ editor: visual
 <p><a id="Datasets" name="Datasets"></a></p>
 
 # Presentations
+
+-   **Romasanta**, Raquel P. "Five verbs, one pattern: Insights from corpus data on complementation". 8th Conference of the International Society for the Linguistics of English (isLE8). Universidade de Santiago de Compostela, España, 1-4/09/2025
+
+-   **Romasanta**, Raquel P. "Retrospective verbs across time". XVI Congreso Internacional de Lingüística de Corpus (CILC2025). Universidad de Salamanca, España, 15-17/05/2025
 
 -   Calvo Benzies, Yolanda Joy and **Romasanta**, Raquel P. "ChatGPT in the ESP classroom: A missed opportunity?". XIV Congreso de Literatura, Lengua y Traducción (liLETRAd), 19-21/03/2025
 

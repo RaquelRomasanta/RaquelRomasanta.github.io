@@ -1,0 +1,14 @@
+---
+title: "R Code Library"
+format: html
+---
+
+
+This section will be a practical reference of useful R code snippets.
+
+- Data import and cleaning
+- Exploratory data analysis
+- Data visualization
+- Statistical tests
+
+Code will be organized by topic and continuously updated.
