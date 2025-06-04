@@ -19,6 +19,14 @@ website:
         text: Research
       - href: posts.qmd
         text: News
+      - text: Resources
+        menu:
+          - text: Descriptive Statistics
+            file: descriptive.qmd
+          - text: Inferential Statistics
+            file: inferential.qmd
+          - text: R Code Library
+            file: rcode.qmd
       - href: contact.qmd
         text: Contact 
 

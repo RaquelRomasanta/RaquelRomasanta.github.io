@@ -1,0 +1,79 @@
+---
+title: "Descriptive Statistics"
+format: html
+execute:
+  echo: true
+  eval: true
+---
+
+
+Descriptive statistics help us summarize and understand the main features of a dataset. This section covers key concepts and includes R code examples.
+
+### 📊 Measures of Central Tendency
+
+- **Mean**: The average of the data.
+- **Median**: The middle value when the data is ordered.
+- **Mode**: The most frequently occurring value.
+
+```{r}
+# Sample data
+data <- c(5, 8, 9, 6, 8, 7, 10, 6, 8)
+
+# Mean
+mean(data)
+
+# Median
+median(data)
+
+# Mode (custom function)
+get_mode <- function(x) {
+  uniqx <- unique(x)
+  uniqx[which.max(tabulate(match(x, uniqx)))]
+}
+get_mode(data)
+```
+
+### 📏 Measures of Dispersion
+
+- **Range**: Difference between max and min values.
+- **Variance**: The average squared deviation from the mean.
+- **Standard Deviation**: Square root of the variance.
+
+```{r}
+# Range
+range(data)
+diff(range(data))  # Range as a single number
+
+# Variance
+var(data)
+
+# Standard Deviation
+sd(data)
+```
+
+### 📈 Data Visualization
+
+Visual representations are essential for understanding the distribution of data.
+
+```{r}
+# Histogram
+hist(data, main = "Histogram of Data", col = "skyblue", border = "white")
+```
+
+```{r}
+# Boxplot
+boxplot(data, main = "Boxplot of Data", col = "lightgreen")
+```
+
+```{r}
+# Bar plot for frequency
+barplot(table(data), main = "Bar Plot of Frequencies", col = "lightcoral")
+```
+
+---
+
+### ✅ Summary
+
+Descriptive statistics give you a first understanding of your data. You can use these techniques and R code snippets to quickly explore any dataset before moving on to more complex analysis.
+
+More examples coming soon!
