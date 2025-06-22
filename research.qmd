@@ -42,11 +42,11 @@ editor: visual
 
 -   Raquel P. **Romasanta** and Calvo Benzies, Yolanda Joy. (submitted). ChatGPT in the ESP classroom: A missed opportunity?
 
--   Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. (in preparation). Regression and random forests: Synergies for variationist corpus research. {{< ai psyarxiv >}} [Working paper](https://doi.org/10.31234/osf.io/afuh9) \| {{< ai osf >}} [OSF](https://osf.io/5u8bt/)
+-   Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. (submitted). Regression and random forests: Synergies for variationist corpus research. {{< ai psyarxiv >}} [Working paper](https://doi.org/10.31234/osf.io/afuh9) \| {{< ai osf >}} [OSF](https://osf.io/5u8bt/)
+
+-   Bruyel Olmedo, Antonio, and Raquel P. **Romasanta**. (submitted). Reconceptualising ESP for Hospitality: A Needs Analysis of Hotel Management Students in the Balearic Islands.
 
 -   **Romasanta**, Raquel P. (in preparation). Complementation Shifts in the History of English: A Study of Five Retrospective Verbs
-
--   Bruyel Olmedo, Antonio, and Raquel P. **Romasanta**. (in preparation).
 
 #### Published
 
