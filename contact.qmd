@@ -4,18 +4,18 @@ format: html
 editor: visual 
 ---
 
-![](images/uni.jpeg){width="4184"}
+![](images/uni.jpg)
 
-**Department of English and German Philology**
+**Department of English, French and German Philology**
 
-Faculty of Philology
+Faculty of Philology and Translation
 
-Universidade de Santiago de Compostela (USC)
+Universidade de Vigo (UVigo)
 
-Avda. de Castelao, s/n, 15782
+As Lagoas, Marcosende
 
-Santiago de Compostela, SPAIN
+36310, Vigo, SPAIN
 
-E-mail: [raquel.romasanta\@usc.es](mailto:raquel.romasanta@usc.es)
+E-mail: [raquel.romasanta\@uvigo.gal](mailto:raquel.romasanta@uvigo.gal)
 
-Office: 304
+Office: B49
