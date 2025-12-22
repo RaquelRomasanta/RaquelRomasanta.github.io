@@ -1,0 +1,11 @@
+/* Banner de título en posts (imagen como FONDO) */
+.quarto-title-banner {
+  background-size: contain !important;   /* no se recorta */
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+
+  /* controla el tamaño del “cuadro” del banner */
+  min-height: 260px;   /* ajusta: 200–350 */
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
