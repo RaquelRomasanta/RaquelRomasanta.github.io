@@ -1,0 +1,20 @@
+---
+title: "New position at UVigo"
+editor: visual
+description: "Obtain a junior lectureship at UVigo"
+author:
+  - name: Raquel P. Romasanta
+    url: https://orcid.org/0000-0001-7508-4745
+    orcid: https://orcid.org/0000-0001-7508-4745
+    affiliation: University of Vigo
+date: 12-01-2025
+categories: [New position] 
+#citation: 
+  #url: https://raquelromasanta.github.io/posts/2025-12-01-UVigo/
+image: images/uvigo.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+I'm thrilled to share that, as of December, I’ve joined the University of Vigo as a Junior Lecturer (*Ayudante Doctora*) in the Department of English, French and German Philology. This is a full-time, five-year tenure-track position, and I’m excited to be part of such a vibrant academic community.
+
+Founded in 1990, the University of Vigo is a young and dynamic public institution with a strong commitment to academic excellence, research innovation, and social engagement within the European Higher Education Area. The university stands out for its international outlook and its close connection to the social and economic development of Galicia. Within this context, the area of English studies combines solid training in linguistics, literature, and cultural studies with an emphasis on research, interdisciplinarity, and innovative teaching practices in English-speaking contexts.

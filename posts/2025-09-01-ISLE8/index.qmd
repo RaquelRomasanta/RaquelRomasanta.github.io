@@ -1,0 +1,24 @@
+---
+title: "Presentation at ISLE8. Five verbs, one pattern: Insights from corpus data on complementation"
+editor: visual
+description: "It was a pleasure to share my research on verb complementation in World Englishes at ISLE8. The study looks at diachronic and cross-varietal trends in the use of remember, regret, forget, recall, and recollect"
+author:
+  - name: Raquel P. Romasanta
+    url: https://orcid.org/0000-0001-7508-4745
+    orcid: https://orcid.org/0000-0001-7508-4745
+    affiliation: University of Vigo
+date: 09-01-2025
+categories: [Presentation] 
+#citation: 
+  #url: https://raquelromasanta.github.io/posts/2025-09-01-ISLE8/
+image: images/ISLE8.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+A couple of weeks ago, I had the pleasure of presenting my research at the **ISLE8 (CILC 2025)** held at the University of Santiago de Compostela.
+
+My presentation examined the complementation patterns of five English retrospective verbs — *remember, forget, regret, recall,* and *recollect* — focusing on their alternation between finite clauses and non-finite *-ing* complements. Using data from historical and present-day corpora (CEECS, CLMET 3.1, and GloWbE), the study traced a clear diachronic shift towards *-ing* complementation, which becomes increasingly dominant in later stages of English. The analysis showed that verbs such as *remember* and *regret* are at the forefront of this change, while *recall* and *recollect* follow the same trend to a lesser extent and *forget* remains comparatively stable. Overall, the findings suggest that the expansion of *-ing* complements is linked to broader changes in English complementation patterns and discourse style, particularly a growing preference for more experiential and subjective modes of expression
+
+Many thanks to the organisers and participants for such a stimulating conference and for the insightful questions and feedback. It was a great opportunity to share work and engage with colleagues working on the linguistics of English from diverse theoretical and empirical perspectives.
+
+![](images/ISLE8_slides.png)
