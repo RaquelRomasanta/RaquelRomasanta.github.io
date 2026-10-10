@@ -42,11 +42,11 @@ editor: visual
 
 - Raquel P. **Romasanta** and Calvo Benzies, Yolanda Joy. (submitted). ChatGPT in the ESP classroom: A missed opportunity?
 
-- Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. (submitted). Regression and random forests: Synergies for variationist corpus research. {{< ai psyarxiv >}} [Working paper](https://doi.org/10.31234/osf.io/afuh9) \| {{< ai osf >}} [OSF](https://osf.io/5u8bt/)
-
 - Bruyel Olmedo, Antonio, and Raquel P. **Romasanta**. (submitted). Reconceptualising ESP for Hospitality: A Needs Analysis of Hotel Management Students in the Balearic Islands.
 
 - **Romasanta**, Raquel P. (in preparation). Complementation Shifts in the History of English: A Study of Five Retrospective Verbs
+
+- Sönning, Lukas, Jason Grafmiller, and Raquel P. **Romasanta**. (unpublished manuscript). Regression and random forests: Synergies for variationist corpus research. {{< ai psyarxiv >}} [Working paper](https://doi.org/10.31234/osf.io/afuh9) \| {{< ai osf >}} [OSF](https://osf.io/5u8bt/)
 
 #### Published
 
@@ -98,6 +98,10 @@ editor: visual
 - **Romasanta**, Raquel P. "Five verbs, one pattern: Insights from corpus data on complementation". 8th Conference of the International Society for the Linguistics of English (isLE8). Universidade de Santiago de Compostela, España, 1-4/09/2025
 
 - **Romasanta**, Raquel P. "Retrospective verbs across time". XVI Congreso Internacional de Lingüística de Corpus (CILC2025). Universidad de Salamanca, España, 15-17/05/2025
+
+- Ignacio Palacios Martínez, Rosa Alonso, Mario Cal Varela, Susana Doval Suárez, Ana Fernández Dobao, Javier Fernández Polo, Lidia Gómez García, Elsa González Álvarez, Paula López Rúa, Luisa Roca Varela, andRaquel P. **Romasanta** \[póster\]: “Presenting SULEC and SUNCODAC: Two Corpora for English Language Teaching and Research”, *II Xeira CLARIAH-GAL*, USC, 9 maio 2025.
+
+- Yolanda Joy Calvo Benzies, Begoña Velasco Arranz, Isabel Serra Pfenning, Isabelle Veronique Bes Hoghton, Rosa María Moreno Redondo, Gary O Donnell, Adriana Taboada González, Raquel P. **Romasanta**, Naara Queiruga Domínguez e Celia Veiga Pérez \[comunicación\]: “Redefiniendo la enseñanza de idiomas para fines específicos con aplicaciones de IA”, *VII Jornadas de Experiencias Docentes*, Universidade das Illas Baleares, 5-12 febreiro 2025.
 
 - Calvo Benzies, Yolanda Joy and **Romasanta**, Raquel P. "ChatGPT in the ESP classroom: A missed opportunity?". XIV Congreso de Literatura, Lengua y Traducción (liLETRAd), 19-21/03/2025
 
